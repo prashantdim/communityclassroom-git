@@ -1,5 +1,12 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 i am ready for winters
 =======
 winter is coming
+>>>>>>> feature1
+=======
+i am ready for winters
+winter is coming
+
+make a store
 >>>>>>> feature1
